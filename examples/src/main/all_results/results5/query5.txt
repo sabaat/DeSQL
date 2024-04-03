@@ -1,0 +1,1 @@
+select * from customer where c_birth_year#328 > 1980$
